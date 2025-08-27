@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc18e5c7-aeb8-4209-abba-0532123874d2" name="Changes" comment="Создана функция exchange для получения из интернета курсов валют.">
+    <list default="true" id="bc18e5c7-aeb8-4209-abba-0532123874d2" name="Changes" comment="Изменен формат курса, теперь выводится два знака после запятой.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/M7.3_Currency_exchange.py" beforeDir="false" afterPath="$PROJECT_DIR$/M7.3_Currency_exchange.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -47,7 +53,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "combobox"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -97,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756313875605</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Изменен формат курса, теперь выводится два знака после запятой.">
+      <option name="closed" value="true" />
+      <created>1756314597368</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756314597368</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +144,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создано главное окно программы" />
     <MESSAGE value="Создана функция exchange для получения из интернета курсов валют." />
-    <option name="LAST_COMMIT_MESSAGE" value="Создана функция exchange для получения из интернета курсов валют." />
+    <MESSAGE value="Изменен формат курса, теперь выводится два знака после запятой." />
+    <option name="LAST_COMMIT_MESSAGE" value="Изменен формат курса, теперь выводится два знака после запятой." />
   </component>
 </project>
