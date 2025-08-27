@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc18e5c7-aeb8-4209-abba-0532123874d2" name="Changes" comment="Создано главное окно программы" />
+    <list default="true" id="bc18e5c7-aeb8-4209-abba-0532123874d2" name="Changes" comment="Создано главное окно программы">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M7.3_Currency_exchange.py" beforeDir="false" afterPath="$PROJECT_DIR$/M7.3_Currency_exchange.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "alienkiytsvetok"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/alienkiytsvetok/-.git",
+    "accountId": "56d0cb27-be12-4d4f-bd0f-ab60ad80eff1"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -59,7 +74,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756311574119</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Создано главное окно программы">
+      <option name="closed" value="true" />
+      <created>1756311876224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756311876224</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Создано главное окно программы">
+      <option name="closed" value="true" />
+      <created>1756312073724</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756312073724</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
