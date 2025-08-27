@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc18e5c7-aeb8-4209-abba-0532123874d2" name="Changes" comment="Изменен формат курса, теперь выводится два знака после запятой.">
+    <list default="true" id="bc18e5c7-aeb8-4209-abba-0532123874d2" name="Changes" comment="Вместо поля ввода сделан выпадающий список (combobox).">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/M7.3_Currency_exchange.py" beforeDir="false" afterPath="$PROJECT_DIR$/M7.3_Currency_exchange.py" afterDir="false" />
     </list>
@@ -51,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.M7.3_Currency_exchange.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "combobox"
@@ -111,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756314597368</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Вместо поля ввода сделан выпадающий список (combobox).">
+      <option name="closed" value="true" />
+      <created>1756316951556</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756316951556</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Вместо поля ввода сделан выпадающий список (combobox).">
+      <option name="closed" value="true" />
+      <created>1756316975480</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756316975480</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +162,7 @@
     <MESSAGE value="Создано главное окно программы" />
     <MESSAGE value="Создана функция exchange для получения из интернета курсов валют." />
     <MESSAGE value="Изменен формат курса, теперь выводится два знака после запятой." />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменен формат курса, теперь выводится два знака после запятой." />
+    <MESSAGE value="Вместо поля ввода сделан выпадающий список (combobox)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Вместо поля ввода сделан выпадающий список (combobox)." />
   </component>
 </project>
