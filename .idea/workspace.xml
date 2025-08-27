@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc18e5c7-aeb8-4209-abba-0532123874d2" name="Changes" comment="Вместо поля ввода сделан выпадающий список (combobox).">
+    <list default="true" id="bc18e5c7-aeb8-4209-abba-0532123874d2" name="Changes" comment="Добавлен второй выпадающий список для базовой валюты.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/M7.3_Currency_exchange.py" beforeDir="false" afterPath="$PROJECT_DIR$/M7.3_Currency_exchange.py" afterDir="false" />
     </list>
@@ -28,21 +28,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "alienkiytsvetok"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alienkiytsvetok&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/alienkiytsvetok/-.git",
-    "accountId": "56d0cb27-be12-4d4f-bd0f-ab60ad80eff1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alienkiytsvetok/-.git&quot;,
+    &quot;accountId&quot;: &quot;56d0cb27-be12-4d4f-bd0f-ab60ad80eff1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="31sSibBBwNbyAM5v4t5BoRmX1Fl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,7 +54,7 @@
     "Python.M7.3_Currency_exchange.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "combobox"
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -128,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756316975480</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Добавлен второй выпадающий список для базовой валюты.">
+      <option name="closed" value="true" />
+      <created>1756321008910</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756321008910</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +171,7 @@
     <MESSAGE value="Создана функция exchange для получения из интернета курсов валют." />
     <MESSAGE value="Изменен формат курса, теперь выводится два знака после запятой." />
     <MESSAGE value="Вместо поля ввода сделан выпадающий список (combobox)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Вместо поля ввода сделан выпадающий список (combobox)." />
+    <MESSAGE value="Добавлен второй выпадающий список для базовой валюты." />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен второй выпадающий список для базовой валюты." />
   </component>
 </project>
