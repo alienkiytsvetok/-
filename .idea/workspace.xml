@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc18e5c7-aeb8-4209-abba-0532123874d2" name="Changes" comment="Создано главное окно программы">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bc18e5c7-aeb8-4209-abba-0532123874d2" name="Changes" comment="Создана функция exchange для получения из интернета курсов валют.">
       <change beforePath="$PROJECT_DIR$/M7.3_Currency_exchange.py" beforeDir="false" afterPath="$PROJECT_DIR$/M7.3_Currency_exchange.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756312073724</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Создана функция exchange для получения из интернета курсов валют.">
+      <option name="closed" value="true" />
+      <created>1756313875605</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756313875605</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +129,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создано главное окно программы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создано главное окно программы" />
+    <MESSAGE value="Создана функция exchange для получения из интернета курсов валют." />
+    <option name="LAST_COMMIT_MESSAGE" value="Создана функция exchange для получения из интернета курсов валют." />
   </component>
 </project>
